@@ -3,7 +3,7 @@
 #include <stdint.h>
 
 int main(void) {
-        float f = 40.334309;
+        float f = 40.3343091;
         double d = 1;
 
         printf("O tamanho de f (int)): %zu bytes / %zu bits\n", sizeof f, sizeof f *8);
