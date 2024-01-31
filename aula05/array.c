@@ -10,7 +10,7 @@ int main(void) {
 
         c[0] = 'A';
         c[1] = 0x42;
-        c[2] = 66;
+        c[2] = 67;
 
         printf("O elemento 0 de c eh: %c\n", c[0]);
         printf("O elemento 0 de c eh: %c\n", c[1]);
